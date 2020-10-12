@@ -1,9 +1,10 @@
 ### Hi there 👋
 
+Software developer for [Ecosia 🌳](https://ecosia.org/) and I made some games for fun.
 
 #### 🎮 js13k game entries
 
-https://js13kgames.com/
+`2020` [For O'Fourgh](https://js13kgames.com/entries/for-ofoughr) 🛕 A board-game style religion multiplayer game with bots.
 
 `2019` [Regresso](https://js13kgames.com/entries/regresso) ⛵️ The tale of a crew trying to return to the seas and escape misfortune.
 
