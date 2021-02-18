@@ -2,6 +2,8 @@
 
 Software developer for [Ecosia 🌳](https://ecosia.org/) and I made some games for fun.
 
+📝 Find me [on dev.to](https://dev.to/mrlopis)
+
 #### 🎮 js13k game entries
 
 `2020` [For O'Fourgh](https://js13kgames.com/entries/for-ofoughr) 🛕 A board-game style religion multiplayer game with bots.
