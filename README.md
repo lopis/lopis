@@ -6,6 +6,8 @@ Software developer for [Ecosia 🌳](https://ecosia.org/) and I made some games 
 
 #### 🎮 js13k game entries
 
+Every year since 2017 I've created a javascript mini game for the JS13K game jam. Some might require servers that don't work anymore.
+
 🍞 `2023` [Market Street Tycoon](https://lopis.github.io/market-street-tycoon/dist/) A trading game where you try to resell local goods at the best price. ([source](https://github.com/lopis/market-street-tycoon/))
 
 🔴 `2022` [Planet B](https://lopis.github.io/mars/) A co-op game about earth climate refugees moving to mars. ([source](https://github.com/lopis/mars/))
