@@ -6,6 +6,8 @@ Software developer for [Ecosia 🌳](https://ecosia.org/) and I made some games 
 
 #### 🎮 js13k game entries
 
+🍞 `2023` [Market Street Tycoon](https://lopis.github.io/market-street-tycoon/dist/) A trading game where you try to resell local goods at the best price.
+
 🔴 `2022` [Planet B](https://lopis.github.io/mars/) A co-op game about earth climate refugees moving to mars.
 
 🐜 `2021` [Welcome to Ant Space](https://js13kgames.com/entries/ant-space) A zen game about watching ants following each other.
