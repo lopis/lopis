@@ -18,4 +18,4 @@ Software developer for [Ecosia 🌳](https://ecosia.org/) and I made some games 
 
 🍖 `2018` [Signalmon](https://js13kgames.com/entries/signalmon) A tamagochi-like game for mobile browsers. Signalmon has 3 basic needs: Food, Sleep, Fun.
 
-🐺 `2017` [Hoosdere](https://js13kgames.com/entries/hoosdere) A spooky game where you're trying to escape from a forest full of creatures. And the visual effects are made with CSS and very poorly executed. Controls are also very buggy.
+🐺 `2017` [Hoosdere](https://js13kgames.com/entries/hoosdere) A spooky game where you're trying to escape from a forest full of creatures.
