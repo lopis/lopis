@@ -6,7 +6,8 @@ Software developer for [Ecosia 🌳](https://ecosia.org/) and I made some games 
 
 #### 🎮 js13k game entries
 
-Every year since 2017 I've created a javascript mini game for the JS13K game jam, as well as other non-game-jam related ones.
+Every year since 2017 I've created a javascript mini game for the JS13K game jam.
+I've also made a few other non-game-jam related ones.
 
 [![sort-them-all](sortthemall.png)](https://github.com/lopis/sort-them-all/#readme)
 [![thirteen-terrible-stunts](thirteen-terrible-stunts.png)](https://github.com/lopis/thirteen-terrible-stunts/#readme)
