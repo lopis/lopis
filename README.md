@@ -4,7 +4,7 @@ Software developer for [Ecosia 🌳](https://ecosia.org/) and I made some games 
 
 📝 Find me [on dev.to](https://dev.to/mrlopis)
 
-#### 🎮 js13k game entries
+#### Mini Games
 
 Every year since 2017 I've created a javascript mini game for the JS13K game jam.
 I've also made a few other non-game-jam related ones.
